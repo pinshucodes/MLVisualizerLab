@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://mlvisualizerlabfullstackwebapp.streamlit.app//🧪_ML_Visualizer_Lab-7C3AED?style=for-the-badge&logoColor=white" alt="ML Visualizer Lab" height="60"/>
+  <img src="https://mlvisualizerlabfullstackwebapp.streamlit.app/" alt="ML Visualizer Lab" height="60"/>
 </p>
 
 <p align="center">
