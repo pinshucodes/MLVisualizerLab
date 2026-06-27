@@ -29,29 +29,11 @@
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
-  <img src="screenshots/home.png" alt="Home Page" width="800"/>
-</p>
-
-<details>
-<summary><strong>Click to view more screenshots</strong></summary>
-
-| Page | Preview |
-|------|---------|
-| **Dataset Overview** | ![Dataset Overview](screenshots/dataset_overview.png) |
-| **Preprocessing** | ![Preprocessing](screenshots/preprocessing.png) |
-| **Model Training** | ![Training](screenshots/training.png) |
-| **Evaluation** | ![Evaluation](screenshots/evaluation.png) |
-| **Explainability (SHAP)** | ![Explainability](screenshots/explainability.png) |
-| **Model Comparison** | ![Comparison](screenshots/comparison.png) |
+| ![Comparison](screenshots/comparison.png) |
 | **Dimensionality Reduction** | ![Dimensionality](screenshots/dimensionality.png) |
 | **Clustering** | ![Clustering](screenshots/clustering.png) |
 
 </details>
-
----
 
 ## ✨ Features
 
