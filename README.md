@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <strong>🌐 Live App: <a href="https://mlvisualizerlabfullstackwebapp.streamlit.app/">mlvisualizerlabfullstackwebapp.streamlit.app</a></strong>
+</p>
+
+<p align="center">
   <strong>An interactive machine learning exploration platform for education, experimentation, and visualization.</strong>
 </p>
 

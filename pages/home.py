@@ -193,7 +193,16 @@ st.markdown(
     .dev-avatar-sk { background: linear-gradient(135deg, #EC4899, #F59E0B); }
     .dev-name { font-weight: 600; color: #E2E8F0; font-size: 1.1rem; margin-bottom: 4px; }
     .dev-role { color: #94A3B8; font-size: 0.85rem; margin-bottom: 12px; }
-    .dev-links { display: flex; justify-content: center; gap: 12px; }
+    .dev-links { 
+        display: flex; justify-content: center; gap: 12px; 
+        opacity: 0; transform: translateY(10px); 
+        transition: all 0.3s ease; 
+        pointer-events: none;
+    }
+    .dev-card:hover .dev-links {
+        opacity: 1; transform: translateY(0);
+        pointer-events: auto;
+    }
     .dev-links a {
         display: inline-flex; align-items: center; gap: 6px;
         padding: 6px 14px;
